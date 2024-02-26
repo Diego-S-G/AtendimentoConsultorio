@@ -16,7 +16,6 @@
 --> https://github.com/Diego-S-G/AtendimentoConsultorio_front <--
 <br/>
 <br/>
-<br/>
 
 ## Abaixo está o funcionamento do sistema:
 <br/>
