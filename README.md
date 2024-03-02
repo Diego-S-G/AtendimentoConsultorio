@@ -6,13 +6,13 @@
 
 - A parte do Back-End engloba uma API em C# do zero utilizando o padrão DDD (Domain Driven Design), fazendo um CRUD das entidades. Foi utilizado o SQL Server como banco de dados.
 
-- Segue abaixo o repositório do Back-End:
+- Segue abaixo o repositório do Back-End: <br/>
 --> https://github.com/Diego-S-G/AtendimentoConsultorio-backend <--
 <br/>
 <br/>
 
 - A parte do Front-End foi feita em Angular, conectando-se a API e utilizando seus EndPoints para manipular os dados.
-- Segue abaixo o repositório do Front-End:
+- Segue abaixo o repositório do Front-End: <br/>
 --> https://github.com/Diego-S-G/AtendimentoConsultorio_front <--
 <br/>
 <br/>
